@@ -45,7 +45,7 @@ Project is: _complete_
 
 
 ## Room for Improvement
-Differentiating between meteorite landings and UFO sightings by color on the plot of the world map may allow one to better determine if there is a relationship between the location of meteorite landings and UFO sightings.
+Differentiation between meteorite landings and UFO sightings by color on the plot of the world map may allow one to better determine if there is a relationship between the location of meteorite landings and UFO sightings.
 
 
 ## Acknowledgements
